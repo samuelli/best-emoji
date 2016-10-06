@@ -1,0 +1,14 @@
+{
+  "name": "best-emoji",
+  "description": "Best emoji elements",
+  "keywords": [
+    "emoji",
+    "element-collection"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "emoji-selector": "notwaldorf/emoji-selector",
+    "noto-emoji-iconset": "raulsntos/noto-emoji-iconset",
+    "emo-ji": "wbinnssmith/emo-ji"
+  }
+}
