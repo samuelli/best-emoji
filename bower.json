@@ -9,6 +9,7 @@
   "dependencies": {
     "emoji-selector": "notwaldorf/emoji-selector",
     "noto-emoji-iconset": "raulsntos/noto-emoji-iconset",
-    "emo-ji": "wbinnssmith/emo-ji"
+    "emo-ji": "wbinnssmith/emo-ji",
+    "emoji-rain": "notwaldorf/emoji-rain#^1.0.0"
   }
 }
